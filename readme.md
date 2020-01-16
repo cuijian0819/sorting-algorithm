@@ -26,5 +26,5 @@
 
 
 ## Demo
-#### 1. [topal](https://www.toptal.com/developers/sorting-algorithms)
-#### 2. [webhack](http://www.webhek.com/post/comparison-sort.html) (Chinese)
+* [topal](https://www.toptal.com/developers/sorting-algorithms)
+* [webhack](http://www.webhek.com/post/comparison-sort.html) (Chinese)
