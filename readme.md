@@ -10,10 +10,16 @@ f(n) = O(g(n)) means there are positive constants c and k, such that 0 ≤ f(n) 
 #### Definition:
 A sorting algorithm is said to be **stable** if two objects with equal keys appear in the same order in sorted output as they appear in the input array to be sorted.
 
-## 1. Merge Sort:
+## 1. Quick Sort:
+## 2. Insertion Sort: 
+## 3. Merge Sort: 
+## 4. Bubble Sort:
+## 5. Heap Sort:
 
 
 
 
-### [Demo](https://www.toptal.com/developers/sorting-algorithms)
 
+## Demo
+#### a. [topal](https://www.toptal.com/developers/sorting-algorithms)
+#### b. [webhack](http://www.webhek.com/post/comparison-sort.html) (Chinese)
