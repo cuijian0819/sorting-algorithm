@@ -7,11 +7,16 @@
 **Definition**: A sorting algorithm is said to be **stable** if two objects with equal keys appear in the same order in sorted output as they appear in the input array to be sorted.
 
 ## 1. Quick Sort
-#### Alogrithm
->1. 
->2.
+* Alogrithm
+  1. Select a random number from the whole array, we call it "pivot"
+  2. Place the number smaller than pivot to the left side of the array. 
+  3. Place the number bigger than the pivot to the right side of the array.
+  4. Apply the steps above recursively to the left and right side of the array.
 ## 2. Insertion Sort
 ## 3. Merge Sort
+* Alogrithm
+  1. 
+  2.
 ## 4. Bubble Sort
 ## 5. Heap Sort
 
