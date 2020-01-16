@@ -13,6 +13,8 @@ A sorting algorithm is said to be **stable** if two objects with equal keys appe
 ## 1. Quick Sort:
 ## 2. Insertion Sort: 
 ## 3. Merge Sort: 
+### Definition:
+Merge sort is divide and conquer sorting technique where we divide the whole array in to parts then apply merge technique on them and then combine them in order to produce the final sorted array. 
 ## 4. Bubble Sort:
 ## 5. Heap Sort:
 
