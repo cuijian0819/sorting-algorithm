@@ -7,8 +7,9 @@
 **Definition**: A sorting algorithm is said to be **stable** if two objects with equal keys appear in the same order in sorted output as they appear in the input array to be sorted.
 
 ## 1. Quick Sort
->**Alogrithm**:
->>**a)**: 
+#### Alogrithm
+>1. 
+>2.
 ## 2. Insertion Sort
 ## 3. Merge Sort
 ## 4. Bubble Sort
