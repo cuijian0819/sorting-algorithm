@@ -16,11 +16,13 @@
   2. Place the number smaller than pivot to the left side of the array. 
   3. Place the number bigger than the pivot to the right side of the array.
   4. Apply the steps above recursively to the left and right side of the array.
+
 ## 6. Merge Sort
 * Alogrithm
   1. Divide the array into two child arrays with same length.
   2. Apply the algorithm to the two child arrays.
   3. Merge two sorted child arrays into one final sorted array.
+  
 ## 7. Heap Sort
 
 ## 8. Demo
