@@ -12,7 +12,7 @@ def shell_sort(input_list):
 
 if __name__ == '__main__':
 
-	input_list = [1, 3, 5, 2, 4, 8, 14, 0,6, 7]
+	input_list = [1, 3, 5, 2, 4, 8, 14, 0, 6, 7]
 
 	shell_sort(input_list)
 

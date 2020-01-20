@@ -7,9 +7,28 @@
 **Definition**: A sorting algorithm is said to be **stable** if two objects with equal keys appear in the same order in sorted output as they appear in the input array to be sorted.
 
 ## 1. Bubble Sort
+* Algorithm
+  1. Compare two number next to each other, if the second one is larger than the first one, then swap.
+  2. Do step 1 for all the numbers in the array.
+  3. Repeat the steps above until the array is sorted.
+
 ## 2. Insertion Sort
+* Algorithm
+  1. Basically, divide the array into two parts: sorted and unsorted.
+  2. From the first number to the last number, insert it in a appropriate position in the sorted part.
+  3. Fisrt number keeps still since there is no number in the unsorted array.
+
 ## 3. Selection Sort
+* Algorithm
+  1. Basically, divide the array into two parts: sorted and unsorted.
+  2. from the unsorted part, select the least number and insert in the end of the sorted part.
+  3. Repeat step 2 from the first number to the last number.
+
 ## 4. Shell Sort
+* Algorithm
+  1. 
+  2.
+  
 ## 5. Quick Sort
 * Alogrithm
   1. Select a random number from the whole array, we call it "pivot".
@@ -22,14 +41,12 @@
   1. Divide the array into two child arrays with same length.
   2. Apply the algorithm to the two child arrays.
   3. Merge two sorted child arrays into one final sorted array.
-  
-## 7. Heap Sort
 
-## 8. Demo
+## 7. Demo
 * [topal](https://www.toptal.com/developers/sorting-algorithms)
 * [webhack](http://www.webhek.com/post/comparison-sort.html) (Chinese)
 
-## 9. Reference
+## 8. Reference
 * https://blog.csdn.net/weixin_41190227/article/details/86600821
 * https://gitee.com/liyu-liyu-666/PythonAlgorithm
 
