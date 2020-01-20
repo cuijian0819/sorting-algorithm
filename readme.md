@@ -6,6 +6,15 @@
 #### 2) Stability
 **Definition**: A sorting algorithm is said to be **stable** if two objects with equal keys appear in the same order in sorted output as they appear in the input array to be sorted.
 
+|Algorithm|Time Compelxity|Best Case|Worst Case|Space Compelxity|Stability|
+|---------|---------------|---------|----------|----------------|---------|
+|Bubble Sort|O(n^2)|O(n)|O(n^2)|O(1)|Stable|
+|Insertion Sort|O(n^2)|O(n)|O(n^2)|O(1)|Stable|
+|Selection Sort|O(n^2)|O(n^2)|O(n^2)|O(1)|Unstable|
+|Shell Sort|O(nlogn)|O(nlog^2n)|O(nlog^2n)|O(1)|Unstable|
+|Quick Sort|O(nlogn)|O(nlogn)|O(n^2)|O(logn)|Unstable|
+|Merge Sort|O(nlogn)|O(nlogn)|O(nlogn)|O(n)|Stable|
+
 ## 1. Bubble Sort
 * Algorithm
   1. Compare two number next to each other, if the second one is larger than the first one, then swap.
