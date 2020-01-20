@@ -21,14 +21,16 @@
 ## 3. Selection Sort
 * Algorithm
   1. Basically, divide the array into two parts: sorted and unsorted.
-  2. from the unsorted part, select the least number and insert in the end of the sorted part.
+  2. From the unsorted part, select the least number and insert in the end of the sorted part.
   3. Repeat step 2 from the first number to the last number.
 
 ## 4. Shell Sort
 * Algorithm
-  1. 
-  2.
-  
+  1. gap = length of array / 2 
+  2. Compare two numbers with the distance of gap, swap them if the first one is bigger than the second one.
+  3. If it is swapped, do step 2 for the previous two numbers with the distance of gap.
+  4. Repeat step 2 and 3 by using the new gap = gap / 2
+
 ## 5. Quick Sort
 * Alogrithm
   1. Select a random number from the whole array, we call it "pivot".
