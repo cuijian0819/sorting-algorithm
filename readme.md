@@ -8,7 +8,7 @@
 
 |Algorithm|Time Compelxity|Best Case|Worst Case|Space Compelxity|Stability|
 |:--------:|:--------------:|:---------:|:----------:|:----------------:|:------------:|
-|Bubble Sort|$xy_z^2$|O(n)|O(n^2)|O(1)|Stable|
+|Bubble Sort|O(n^2)|O(n)|O(n^2)|O(1)|Stable|
 |Insertion Sort|O(n^2)|O(n)|O(n^2)|O(1)|Stable|
 |Selection Sort|O(n^2)|O(n^2)|O(n^2)|O(1)|Unstable|
 |Shell Sort|O(nlogn)|O(nlog^2n)|O(nlog^2n)|O(1)|Unstable|
