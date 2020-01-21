@@ -6,7 +6,7 @@
 #### 2) Stability
 **Definition**: A sorting algorithm is said to be **stable** if two objects with equal keys appear in the same order in sorted output as they appear in the input array to be sorted.
 
-![alt](https://github.com/cuijian0819/sorting-algorithm/master/algorithm_chart.jpg)
+![alt](https://github.com/cuijian0819/sorting-algorithm/algorithm_chart.jpg)
 
 |Algorithm|Time Compelxity|Best Case|Worst Case|Space Compelxity|Stability|
 |---------|---------------|---------|----------|----------------|---------|
